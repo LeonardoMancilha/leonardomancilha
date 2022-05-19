@@ -5,11 +5,11 @@
 </p>
 
 ### Hello, Devs!!
-- 🌱 Today I'm learning HTML, CSS and JavaScript
+- 🌱 Today I'm learning HTML, CSS, JavaScript, SQL, UI Design, IA.
 
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS, JavaScript and Python.</strong>
+  🦄 Skills: <strong>HTML, CSS, JavaScript, Python, C e C++.</strong>
 </p>
 
 <p align="left">
@@ -20,7 +20,7 @@
   💌 If you want to chat with me, send me a message.
 </p>
 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/his
 
 ##
 
