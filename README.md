@@ -9,11 +9,11 @@
 
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS, JavaScript, Python, C e C++.</strong>
+  🦄 Skills: <strong>HTML, CSS, JavaScript, Python, C and C++.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode, Figma, Canva, Photoshop, Git e GitHub.</strong>
+  💼 Tools: <strong>VSCode, Figma, Canva, Photoshop, Git and GitHub.</strong>
 </p>
 
 <p align="left">
