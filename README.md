@@ -5,7 +5,7 @@
 </p>
 
 ### Hello, Devs!!
-- 🌱 Today I'm learning HTML, CSS, JavaScript, SQL, UI Design, IA.
+- 🌱 Today I'm learning HTML, CSS, JavaScript, SQL, UX Design, IA.
 
 
 <p align="left">
