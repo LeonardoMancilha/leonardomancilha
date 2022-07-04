@@ -4,6 +4,8 @@
 <img width="321px" height="311px" src="https://user-images.githubusercontent.com/74615811/176965669-f019b26a-346a-463b-b278-b505dc12c92b.jpg" alt="cover" />
 </div>
 
+<p><img src="https://komarev.com/ghpvc/?username=leonardomancilha&color=red" alt="Profile views" /></p>
+
 <p>Thank You for taking the time to view my GitHub Profile :)</p>
 
 <p>
