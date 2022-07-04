@@ -52,7 +52,6 @@ Front-end developer and in the future UX Designer</h1>
 <img align="center" alt="SQL" height="30" width="40" src="https://cdn-icons.flaticon.com/png/512/4248/premium/4248443.png?token=exp=1656716912~hmac=287c0d30bf54f850cad24c162342929d" />
 <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />  
 <img align='center' alt="Photoshop" width ='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg' />
-<img align='center' alt="Ux design" width ='40px' src="https://cdn-icons.flaticon.com/png/512/3368/premium/3368896.png?token=exp=1656715784~hmac=c0f8664758e61a03bfec238d6b89118c" />
 </p>
 
 <h2 align="center">My GitHub Stats</h2>
