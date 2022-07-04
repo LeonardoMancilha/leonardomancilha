@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there, I'm Leonardo Front-end developer <img src="https://user-images.githubusercontent.com/74615811/176965160-77dbc9b7-98bc-4c65-97ef-aee35f106fdb.gif" width = 50px> <br /></h1>
+<h1 align='center'>Hi there, I'm Leonardo Machado <img src="https://user-images.githubusercontent.com/74615811/176965160-77dbc9b7-98bc-4c65-97ef-aee35f106fdb.gif" width = 50px> <br /></h1>
 
 <div align="center">
 <img width="321px" height="311px" src="https://user-images.githubusercontent.com/74615811/176965669-f019b26a-346a-463b-b278-b505dc12c92b.jpg" alt="cover" />
