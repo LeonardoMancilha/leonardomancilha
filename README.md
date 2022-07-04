@@ -1,11 +1,10 @@
-<h1 align='center'>Hello, I'm Leonardo Machado <img src="https://user-images.githubusercontent.com/74615811/176965160-77dbc9b7-98bc-4c65-97ef-aee35f106fdb.gif" width = 50px> <br /> 
-Front-end developer and in the future UX Designer</h1>
+<h1 align='center'>Hi there, I'm Leonardo Front-end developer <img src="https://user-images.githubusercontent.com/74615811/176965160-77dbc9b7-98bc-4c65-97ef-aee35f106fdb.gif" width = 50px> <br /></h1>
 
 <div align="center">
 <img width="321px" height="311px" src="https://user-images.githubusercontent.com/74615811/176965669-f019b26a-346a-463b-b278-b505dc12c92b.jpg" alt="cover" />
 </div>
 
-<p> Thank You for taking the time to view my GitHub Profile :) </p>
+<p>Thank You for taking the time to view my GitHub Profile :)</p>
 
 <p>
   If you want to chat with me, send me a message below 👇
@@ -32,7 +31,7 @@ Front-end developer and in the future UX Designer</h1>
 
 - 🌱 I'm currently learning: HTML, CSS, JavaScript, UX Design, Algorithms and Data Structure. 
 - 👯 I'm looking to colaborate on open source projects.
-- 🔮 Futurely, I'm going to learn TypeScript, React.js and Unit Tests.
+- 🔮 In the future, I'm going to learn TypeScript, React.js and Unit Tests.
 - 😄 Pronouns: he/his/him
 ##
 
