@@ -19,11 +19,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   
-  <a href="https://mail.google.com/mail/u/0/?dispatcher_command=master_lookup#inbox" alt="Email">
+  <a href="https://mail.google.com/mail/u/0/?dispatcher_command=master_lookup#inbox" target="_blank" alt="Email">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
   
-  <a href="https://discord.com/channels/@me" alt="Discord">
+  <a href="https://discord.com/channels/@me" target="_blank" alt="Discord">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
   
