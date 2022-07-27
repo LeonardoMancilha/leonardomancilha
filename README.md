@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
   
-  <a href="Leonardo Machado#3142" alt="Discord">
+  <a href="https://discord.com/channels/@me" alt="Discord">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
   </a>
   
