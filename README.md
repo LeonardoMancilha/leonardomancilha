@@ -41,7 +41,7 @@
 - 😄 Pronouns: he/his/him
 ##
 
-<img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Imagem do gif" />
+<img src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif" alt="Imagem do gif"/>
 
 <h2 align='center'> What I have used most often nowadays </h2>
 <p>
