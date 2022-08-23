@@ -60,8 +60,8 @@
 </p>
 
 <h2 align="center">My GitHub Stats</h2>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardomancilha&show_icons=true&theme=codeSTACKr "&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardomancilha&show_icons=true&theme=dracula"&include_all_commits=true&count_private=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomancilha&theme=codeSTACKr" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomancilha&theme=dracula" />
   
 ![Snake animation](https://github.com/LeonardoMancilha/LeonardoMancilha/blob/output/github-contribution-grid-snake.svg)
