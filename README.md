@@ -29,7 +29,7 @@ const leo = {
                 CSS: ['Styled-components', 'Bootstrap'],
             },
             backend: {
-                JavaScript: ['Node.js', 'MySQL', 'PHP', 'C++', 'C#']
+                JavaScript: ['Node.js', 'Python', 'MySQL', 'PHP', 'C++', 'C#']
             },
         },
     }
