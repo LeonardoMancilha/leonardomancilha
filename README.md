@@ -1,44 +1,29 @@
-## Hello, World! 👋
+# 👋 Hello, World!
 
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74615811/236914759-bd3cf54f-9110-47b2-97b4-8aea107a3e8e.png" height="300px"> <br>
-  
-I'm a Frontend Developer
- 
-  <details>
-  <summary> More about me</summary>
-<div align="left">
+I am Leonardo Machado, passionate about Programming and how it works under the hood, trying out new technologies is very enjoyable for me. I enjoy feeling challenged and find personal satisfaction in learning new things. </br>
+Currently, I am studying front-end development at Origamid and applying my skills to my projects.
 
-  ``` JS
-const leo = {
-    personal: {
-        fullName: 'Leonardo Mancilha Machado',
-        birthDate: '2003-11-04',
-        interests: ['music', 'games', 'language learning', 'catholicism'],
-        motivation: [
-            'Solving challenges through code',
-            'Being smarter and creative',
-        ],
-    },
-    technical: {
-        technologies: {
-            frontend: {
-                Javascript: ['TypeScript', 'React', 'Redux', 'Vanilla JS'],
-                HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['Styled-components', 'Bootstrap'],
-            },
-            backend: {
-                JavaScript: ['Node.js', 'Python', 'MySQL', 'PHP', 'C++', 'C#']
-            },
-        },
-    }
-}
-```
-  </div>
-</details>
-  
-[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](leonardomachadomancilha@gmaol.com)
-[![Linkedin: leonardommachado](https://img.shields.io/badge/-leonardommachado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardommachado/)](https://www.linkedin.com/in/leonardommachado)
-[![GitHub: Follow](https://img.shields.io/github/followers/leonardomancilha?label=follow&style=social)](https://github.com/LeonardoMancilha)
-</div>
+I love working on the front end because I can do many things on the front end it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
+
+# 💻 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Python](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) 
+
+# 💻 What I'm currently studying
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# What I'm going to study later
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](leonardommachado)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.leonardomachado)
+
+# 📊 GitHub Stats:
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=LeonardoMancilha&theme=dark&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoMancilha&theme=dark&hide_border=false"  width="400px" />
+
+
+
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=LeonardoMancilha&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
