@@ -40,7 +40,6 @@
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=LeonardoMancilha&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark" width="500px" /> <img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=LeonardoMancilha&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px" width="310px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoMancilha&theme=shadow_red&hide_border=false" width="500px" height="200px"/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoMancilha/LeonardoMancilha/output/github-contribution-grid-snake-dark.svg">
