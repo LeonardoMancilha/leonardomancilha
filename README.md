@@ -5,7 +5,7 @@
 
 ## Olá, meu nome é Leonardo Mancilha!
 
-<img src="https://t3.ftcdn.net/jpg/07/96/02/16/360_F_796021659_T0fEiTbS0k3iae6UdY8iBESVDBFoMqkH.jpg" alt="ilustração de um computador" min-width="300px" max-width="400px" width="400px" height="300px" align="right">
+<img src="https://t3.ftcdn.net/jpg/07/96/02/16/360_F_796021659_T0fEiTbS0k3iae6UdY8iBESVDBFoMqkH.jpg" alt="ilustração de um computador" min-width="350px" max-width="500px" width="500px" height="300px" align="right">
 
 <p>
   Sou <strong>Desenvolvedor Frontend</strong> em construção da minha carreira. Estou estudando <strong>JavaScript</strong>, <strong>React</strong> e <strong>CSS</strong>, e sempre expandindo meu portfólio com novos projetos práticos.
