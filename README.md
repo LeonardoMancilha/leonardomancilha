@@ -1,29 +1,45 @@
-# 👋 Hello, World!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-I am Leonardo Machado, passionate about Programming and how it works under the hood, trying out new technologies is very enjoyable for me. I enjoy feeling challenged and find personal satisfaction in learning new things. </br>
-Currently, I am studying front-end development at Origamid and applying my skills to my projects.
+## Olá, meu nome é Leonardo Mancilha!
 
-I love working on the front end because I can do many things on the front end it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
+<img src="https://t3.ftcdn.net/jpg/07/96/02/16/360_F_796021659_T0fEiTbS0k3iae6UdY8iBESVDBFoMqkH.jpg" alt="ilustração de um computador" min-width="300px" max-width="500px" width="500px" height="300px" align="right">
 
-# 💻 Tech Stack
+<p>
+  Sou <strong>Desenvolvedor Frontend</strong> em construção da minha carreira. Estou estudando <strong>JavaScript</strong>, <strong>React</strong> e <strong>CSS</strong>, e sempre expandindo meu portfólio com novos projetos práticos.
+  Também, resolvo desafios de código diariamente e implemento testes, como no <strong>LeetCode</strong>.
+</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![Python](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) 
+<p>
+  🦄 Linguagens: <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Python</strong> e <strong>PHP</strong>
+</p>
 
-# 💻 What I'm currently studying
+<p>
+  💾 Banco de dados: <strong>MySQL</strong>
+</p>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p>
+  📚 Bibliotecas: <strong>React</strong>
+</p>
 
-# What I'm going to study later
+<p>
+  💼 Ferramentas: <strong>VSCode</strong>, <strong>GitHub</strong>, <strong>Git</strong> e <strong>Node.js</strong>
+</p>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+<p>
+  Contatos: ⤵️
+</p>
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](leonardommachado)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.leonardomachado)
+<p align="left">
+  <a href="mailto:leonardomachadomancilha@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/leonardomancilha/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=LeonardoMancilha&theme=dark&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoMancilha&theme=dark&hide_border=false"  width="400px" />
+![](https://github-readme-stats.vercel.app/api?username=LeonardoMancilha&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark) ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=LeonardoMancilha&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-
-
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=LeonardoMancilha&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoMancilha&theme=dark&hide_border=false"  width="400px" />
