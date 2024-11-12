@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
 
-<img alt="Leonardo Mancilha GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LeonardoMancilha&show_icons=true&theme=github_dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMancilha&theme=github_dark&&layout=compact" height="160px" width="310px"/>
+<img alt="Leonardo Mancilha GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LeonardoMancilha&show_icons=true&theme=github_dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMancilha&theme=github_dark&&layout=compact" height="195px"/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoMancilha/LeonardoMancilha/output/github-contribution-grid-snake-dark.svg">
