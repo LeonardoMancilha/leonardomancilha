@@ -25,6 +25,10 @@
 </p>
 
 <p>
+ Frameworks: Bootstrap
+</p>
+
+<p>
   💼 Ferramentas: <strong>VSCode</strong>, <strong>GitHub</strong>, <strong>Git</strong> e <strong>Node.js</strong>
 </p>
 
