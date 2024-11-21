@@ -25,7 +25,7 @@
 </p>
 
 <p>
- Frameworks: Bootstrap
+ 🖥️ Frameworks: <strong>Bootstrap</strong>
 </p>
 
 <p>
