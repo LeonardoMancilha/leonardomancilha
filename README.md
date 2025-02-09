@@ -8,8 +8,7 @@
 <img src="https://t3.ftcdn.net/jpg/07/96/02/16/360_F_796021659_T0fEiTbS0k3iae6UdY8iBESVDBFoMqkH.jpg" alt="ilustração de um computador" min-width="350px" max-width="480px" width="480px" height="300px" align="right">
 
 <p>
-  Sou <strong>Desenvolvedor Frontend</strong> em construção da minha carreira. Estou estudando <strong>JavaScript</strong>, <strong>React</strong> e <strong>CSS</strong>, e sempre expandindo meu portfólio com novos projetos práticos.
-  Também, resolvo desafios de código diariamente e implemento testes, como no <strong>LeetCode</strong>.
+  🚀 Sou um Desenvolvedor Frontend em constante evolução, focado em JavaScript, React e CSS. Expando meu portfólio com projetos práticos e resolvo desafios de código diariamente no LeetCode e CodeWars, sempre buscando aprimorar minha lógica e qualidade de código por meio de testes.
 </p>
 
 <p>
