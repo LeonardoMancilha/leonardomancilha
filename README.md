@@ -8,27 +8,29 @@
 <img src="https://t3.ftcdn.net/jpg/07/96/02/16/360_F_796021659_T0fEiTbS0k3iae6UdY8iBESVDBFoMqkH.jpg" alt="ilustração de um computador" min-width="350px" max-width="480px" width="480px" height="300px" align="right">
 
 <p>
-  🚀 Sou um Desenvolvedor Frontend em constante evolução, focado em JavaScript, React e CSS. Expando meu portfólio com projetos práticos e resolvo desafios de código diariamente no LeetCode e CodeWars, sempre buscando aprimorar minha lógica e qualidade de código por meio de testes.
+    🚀 Sou um Desenvolvedor Frontend em constante evolução, focado em React, TypeScript, Redux, Next.js, e Automação Front End com NPM. Expando meu portfólio com projetos práticos e resolvo desafios de código diariamente no <a href="https://github.com/LeonardoMancilha/leetcode" target="_blank">LeetCode</a> e 
+                <a href="https://github.com/LeonardoMancilha/codewars" target="_blank">Codewars</a>, sempre buscando aprimorar minha lógica, qualidade de código e experiência do usuário por meio de testes e boas práticas.
+
 </p>
 
 <p>
-  🦄 Linguagens: <strong>JavaScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>, <strong>Python</strong> e <strong>PHP</strong>
+  Linguagens: <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>HTML</strong>, <strong>CSS</strong>
 </p>
 
 <p>
-  💾 Banco de dados: <strong>MySQL</strong>
+  Banco de dados: <strong>MySQL</strong> (Conhecimento básico)
 </p>
 
 <p>
-  📚 Bibliotecas: <strong>React</strong>
+  Bibliotecas e Frameworks: <strong>React</strong>, <strong>Redux</strong>, <strong>Next.js</strong>, <strong>Bootstrap</strong>
 </p>
 
 <p>
- 🖥️ Frameworks: <strong>Bootstrap</strong>
+  Ferramentas: <strong>VSCode</strong>, <strong>Git</strong>, <strong>GitHub</strong>, <strong>Node.js</strong>, <strong>Jest</strong>
 </p>
 
 <p>
-  💼 Ferramentas: <strong>VSCode</strong>, <strong>GitHub</strong>, <strong>Git</strong> e <strong>Node.js</strong>
+   Outras linguagens: PHP (Conhecimento básico adquirido em projeto Fullstack) e Python (Estudos no curso do Guanabara)  
 </p>
 
 <p>
