@@ -3,7 +3,7 @@
  </a>
 </div>
 
-## Olá, meu nome é Leonardo Mancilha!
+## Olá, meu nome é Leonardo Mancilha Machado!
 
 <img src="https://t3.ftcdn.net/jpg/07/96/02/16/360_F_796021659_T0fEiTbS0k3iae6UdY8iBESVDBFoMqkH.jpg" alt="ilustração de um computador" min-width="350px" max-width="480px" width="480px" height="300px" align="right">
 
