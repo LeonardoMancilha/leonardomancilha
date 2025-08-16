@@ -1,49 +1,37 @@
-<div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=300&size=32&letterSpacing=&pause=1000&color=FF5252&background=AC203400&width=435&lines=Welcome+to+my+code+world!" alt="Typing SVG" />
- </a>
-</div>
+### Olá, meu nome é Leonardo Mancilha Machado! 👋
 
-## Olá, meu nome é Leonardo Mancilha Machado!
+Sou Desenvolvedor Frontend e Mobile focado em construir interfaces intuitivas e eficientes. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** e aprofundando meus conhecimentos em **React Native, TypeScript e Node.js** através do bootcamp Mobile Developer da DIO.
 
-<img src="https://t3.ftcdn.net/jpg/07/96/02/16/360_F_796021659_T0fEiTbS0k3iae6UdY8iBESVDBFoMqkH.jpg" alt="ilustração de um computador" min-width="350px" max-width="480px" width="480px" height="300px" align="right">
+Mantenho meu portfólio em constante expansão com projetos práticos e desafios de código diários, com o objetivo de aprimorar minha lógica, qualidade de código e experiência do usuário.
 
-<p>
-    🚀 Atualmente, estudo e aplico <strong>React</strong>, <strong>TypeScript</strong> e <strong>Automação Frontend com NPM</strong>. Expando meu portfólio com projetos práticos e resolvo desafios de código diariamente no <a href="https://github.com/LeonardoMancilha/leetcode" target="_blank">LeetCode</a> e 
-                <a href="https://github.com/LeonardoMancilha/codewars" target="_blank">Codewars</a>, sempre buscando aprimorar minha lógica, qualidade de código e experiência do usuário por meio de testes e boas práticas.
+---
 
-</p>
+### 💻 Tecnologias e Ferramentas
 
-<p>
-  Linguagens: <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<p>
-  Bibliotecas e Frameworks: <strong>React</strong>, <strong>Bootstrap</strong>, <strong>Jest</strong>
-</p>
+---
 
-<p>
-  Ferramentas: <strong>Git</strong>, <strong>GitHub</strong>, <strong>Node.js</strong>
-</p>
-
-<p>
-   Outras linguagens: PHP e MySQL (conhecimento básico, adquiridos em projeto fullstack) e Python (estudos no curso do Guanabara)  
-</p>
-
-<p>
-  Contatos: ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:leonardomachadomancilha@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/leonardomancilha/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+### 📊 Minhas estatísticas no GitHub
 
 <img alt="Leonardo Mancilha GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LeonardoMancilha&show_icons=true&theme=github_dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMancilha&theme=github_dark&&layout=compact" height="195px"/>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoMancilha/LeonardoMancilha/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoMancilha/LeonardoMancilha/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeonardoMancilha/LeonardoMancilha/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeonardoMancilha/LeonardoMancilha/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+### 📫 Conecte-se comigo!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardomancilhamachado/)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:leonardomachadomancilha@gmail.com)
