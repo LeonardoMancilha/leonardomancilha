@@ -23,15 +23,11 @@ Mantenho meu portfólio em constante expansão com projetos práticos e desafios
 
 ### 📊 Minhas estatísticas no GitHub
 
-<img alt="Leonardo Mancilha GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LeonardoMancilha&show_icons=true&theme=github_dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMancilha&theme=github_dark&&layout=compact" height="195px"/>
-
-<p align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeonardoMancilha/LeonardoMancilha/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
+<img alt="Leonardo Mancilha GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LeonardoMancilha&show_icons=true&theme=github_dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMancilha&theme=github_dark&&layout=compact" height=196px/>
 
 ### 📫 Conecte-se comigo!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardomancilhamachado/)
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:leonardomachadomancilha@gmail.com)
+
+---
