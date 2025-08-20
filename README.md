@@ -1,10 +1,10 @@
 <h1 align="center">Hello, I'm Leonardo Machado! 💻</h1>
 
-<h2>About Me 👋</h2>
+### About Me 👋
 
-<p>I'm a 21-year-old Frontend Developer from São Carlos, SP, Brazil, and a Systems Analysis and Development (Technologist) student at Unicesumar. I create interactive, clean, and well-tested Frontend applications using React, TypeScript, and Node.js.</p>
+I am a 21-year-old Frontend Developer from São Carlos, Brazil. As a Systems Analysis and Development student, I specialize in building interactive, clean, and well-tested applications using **React, TypeScript, and Node.js**.
 
-<p>I'm currently deepening my skills in React, TypeScript, Jest, React Testing Library, and learning Node.js fundamentals. I also solve code challenges on CodeWars daily and LeetCode weekly to improve my logic, code quality, and user experience.</p>
+My passion is turning complex ideas into simple and elegant user experiences. I actively improve my skills by solving daily code challenges on CodeWars and weekly challenges on LeetCode to enhance my logic and code quality.
 
 ---
 
@@ -27,9 +27,9 @@
 
 <img alt="Leonardo Mancilha GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LeonardoMancilha&show_icons=true&theme=github_dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMancilha&theme=github_dark&&layout=compact" height=196px/>
 
+---
+
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardomancilhamachado/)
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:leonardomachadomancilha@gmail.com)
-
----
