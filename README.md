@@ -2,7 +2,7 @@
 
 ### About Me 👋
 
-I am a 21-year-old Frontend Developer from São Carlos, Brazil. As a Systems Analysis and Development student, I specialize in building interactive, clean, and well-tested applications using **React, TypeScript, and Node.js**.
+I am a 21-year-old Frontend Developer from São Carlos, Brazil. As a Systems Analysis and Development student, I specialize in building interactive, clean, and well-tested applications using **React, TypeScript and Jest**.
 
 My passion is turning complex ideas into simple and elegant user experiences. I actively improve my skills by solving daily code challenges on CodeWars and weekly challenges on LeetCode to enhance my logic and code quality.
 
@@ -13,7 +13,6 @@ My passion is turning complex ideas into simple and elegant user experiences. I 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
